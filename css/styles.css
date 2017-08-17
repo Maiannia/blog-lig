@@ -1,9 +1,15 @@
 body {
-  font-family: "Century Gothic"
+  font-family: "Century Gothic";
+  background-color: #addddd
 }
 
 h2 {
   font-size: 45px;
+  text-decoration: underline;
+}
+
+h3 {
+  text-decoration: underline;
 }
 
 .btn-twitter {
@@ -17,4 +23,8 @@ h2 {
 .btn-pinterest {
   background: #b62f26;
   border-color: #b62f26;
+}
+
+#social-buttons {
+  padding-top: 30px;
 }
